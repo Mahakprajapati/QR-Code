@@ -1,6 +1,6 @@
 
 body{
-    background-color: #D5E1EF;
+    background-color: rgb(213, 225, 239);
     text-align: center;
     
 }
@@ -30,7 +30,7 @@ p{
 }
 
 h3{
-   color:#1F2A42;
+   color:rgb(31, 42, 66);
    font-family: 'Outfit';
 }
 .para{

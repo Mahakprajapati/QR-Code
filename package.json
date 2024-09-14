@@ -1,0 +1,12 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tailwind":"npx tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "keywords": [],
+  "author": "mahak",
+  "license": "ISC",
+  "description": ""
+}
